@@ -17,7 +17,7 @@ header h1{
   color: #7C1A00;
   padding: 40px;
   padding-left: 120px;
-  background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303628?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27header-image-1.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T150000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=80c6b11d7baa4644a7f1375ae8f55352a5753f7eba103fa9533d11aa8813d7be");
+  background-image: url("page-bg.gif");
   background-repeat: no-repeat;
   background-position: top-left;
 }
