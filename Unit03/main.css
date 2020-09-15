@@ -6,7 +6,7 @@ body {
   color: black;
   line-height: 140%;
   margin: 30px;
-  background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303630?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27page-bg.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T150000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9deb19ebce68c4777938f3f79922c17d49214ea9516c767f5cfbbfb00115152f");
+  background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303630?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27page-bg.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=30e351d13a4248ba23d8853de6f370dcac7127b67cbebfc855e9bbacfcaa77f2");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE
@@ -17,7 +17,7 @@ header h1{
   color: #7C1A00;
   padding: 40px;
   padding-left: 120px;
-  background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303630?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27page-bg.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=30e351d13a4248ba23d8853de6f370dcac7127b67cbebfc855e9bbacfcaa77f2);
+  background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303628?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27header-image-1.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8c1063d1357146483b9d132021989f05c26b86e8bf77197f90a3a14f05abb66d");
   background-repeat: no-repeat;
   background-position: top-left;
 }
