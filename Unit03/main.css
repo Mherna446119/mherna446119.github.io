@@ -9,7 +9,7 @@ body {
   background-image: url("https://s3.amazonaws.com/blackboard.learn.xythos.prod/584b1d8497c84/94303630?response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27page-bg.gif&response-content-type=image%2Fgif&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200915T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAYDKQORRYTKBSBE4S%2F20200915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=30e351d13a4248ba23d8853de6f370dcac7127b67cbebfc855e9bbacfcaa77f2");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: #F7F3DE
+  background-color: #F7F3DE;
 }
 
 header h1{
@@ -28,7 +28,7 @@ header h1{
 
 nav {
   float: left;
-  width: 150px
+  width: 150px;
 }
 
 nav ul{
@@ -78,7 +78,7 @@ footer li{
 }
 
 h1{
-  color: #8C9273
+  color: #8C9273;
 }
 
 h2 {
